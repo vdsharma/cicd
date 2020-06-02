@@ -1,6 +1,3 @@
-# CICD
-Setup CICD using Docker, Jenkins, Maven, Atrifactory and Sonar
-
 ## Docker Installation
 Checkout : [How do I install docker](https://askubuntu.com/questions/938700/how-do-i-install-docker-on-ubuntu-16-04-lts)
 
